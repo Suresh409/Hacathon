@@ -1,0 +1,6 @@
+android: -r features/AndroidNative/support -r features/step_definitions -r features/AndroidNative/pages/ 
+iOS: -r features/IosNative/support -r features/step_definitions -r features/IosNative/pages/ 
+androidWeb: -r features/AndroidWeb/support -r features/step_definitions -r features/AndroidWeb/pages/ 
+iOSWeb: -r features/iOSWeb/support -r features/step_definitions -r features/iOSWeb/pages/ 
+desktopWeb: -r features/DesktopWeb/support -r features/step_definitions -r features/DesktopWeb/pages/ 
+Drop0-PayeeCreation: --tags @TC_Test_001

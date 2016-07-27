@@ -1,0 +1,5 @@
+[caps]
+platformName = "android"
+deviceName = "HT295W301224"
+app = "chrome"
+
